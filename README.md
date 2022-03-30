@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Hossain Somoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Future Innovation Website](https://armansomoy.github.io/FutureinWebsite/)
+- 🔭 I’m currently working on [Future Innovation LTD](https://futureinltd.com/)
 
 - 🌱 I’m currently learning **REACT, Mongo DB, Express JS**
 
